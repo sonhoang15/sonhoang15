@@ -7,7 +7,7 @@ Hi
 
 
 <pre><samp>root@hoangson15:~# <kbd>md5 -s "Hello world"</kbd>
-MD5 ("Hello world") = 3e25960a79dbc69b674cd4ec67a72c62
+MD5 ("Hello world") 
 
 root@hoangson15:~# <kbd>learning</kbd>
 Full Stack Overflow
