@@ -26,9 +26,6 @@ jobs:
       - name: Install dependency requests
         run: pip install requests
 
-      - name: Run update script
-        run: python update.py
-
       - name: Remove existing snake animation
         run: rm -f assets/snk.svg assets/snk-dark.svg
 
